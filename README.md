@@ -1,0 +1,2 @@
+hackathon topic : Creating a legal case document from the spoken incidents of a victim
+The victim of a crime (AKA petitioner) speaks out the crime or injustice meted to him/her in regional langauge. The system captures the spoken sentences, analyzes the content. Based on incident, event chronology and involved parties, generates a case summary as well as case document to be filed into a court of law.
