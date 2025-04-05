@@ -1,5 +1,6 @@
 Hackathon topic : Creating a legal case document from the spoken incidents of a victim .
 The victim of a crime (AKA petitioner) speaks out the crime or injustice meted to him/her in regional langauge. The system captures the spoken sentences, analyzes the content. Based on incident, event chronology and involved parties, generates a case summary as well as case document to be filed into a court of law.
+
 output :
 1 - voice_input_ui.py
 ![image](https://github.com/user-attachments/assets/ca09b135-acd5-40f3-9478-c12756a87ea2)
